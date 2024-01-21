@@ -1,0 +1,17 @@
+.form-container{
+  margin: 30px;
+  width: 50%;
+}
+
+.link{
+  color: blue;
+}
+
+.sub-heading{
+  width: 48%;
+  display: inline-block;
+}
+
+label{
+  font-weight: bold;
+}
